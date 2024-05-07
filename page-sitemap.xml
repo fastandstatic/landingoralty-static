@@ -2,6 +2,85 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>/</loc>
+		<lastmod>2024-05-07T21:17:53+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/02/Grupo-70.svg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/05/Componente-3-%E2%80%93-2.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/05/mujer-img.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/05/nuestra-cita-.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/03/Grupo-71.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/02/antesdepsues-3.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/03/Group-91.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/03/Group-92.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/02/antesdepsues-3.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/03/Group-91.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/03/Group-92.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/elementor/thumbs/samuel-figueroa-wjH5UEFtVAg-unsplash-scaled-qntqldsh9yet9c6n803dcg77gfeycvikhf8oknr1dw.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/elementor/thumbs/AdobeStock_445470240-scaled-qntqlzern58eodb8prfsfsqt4age9wwe8e8um0uzes.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/elementor/thumbs/churches-694771-scaled-qntqmj5dmnzfg6ikihyye5rhldr3rk2rb3y1ou1ps4.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/elementor/thumbs/dawin-rizzo-JzrTU1ruTnc-unsplash-scaled-qntqmosero75duadlkept4c95ozb1qp5bvuykhtcqs.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/elementor/thumbs/fernando-trivino-_W_O8CbkTig-unsplash-scaled-qntqmwb4achfypzgdnnqd2fxwry8rbj00x2uepi7d0.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/elementor/thumbs/fernando-trivino-iHRvpw2Gvq8-unsplash-scaled-qntqn02h1oml95tzrpa8n1hsabfpm3xxdfosbtcmo4.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/elementor/thumbs/samuel-figueroa-wjH5UEFtVAg-unsplash-scaled-qntqldsm9rezwb7y7sf03g7gwfxt6pjj5gifj707is.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/elementor/thumbs/AdobeStock_445470240-scaled-qntqlzewmy8lbccjpjrf6sr2kaz93qxcwfilkk45jo.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/elementor/thumbs/churches-694771-scaled-qntqmj5imgzm35jviaal55rr1e9yle3pz57sndavx0.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/elementor/thumbs/dawin-rizzo-JzrTU1ruTnc-unsplash-scaled-qntqmosjrh7c0tbolcqck4cilpi5vkq3zx4pj12ivo.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/elementor/thumbs/fernando-trivino-_W_O8CbkTig-unsplash-scaled-qntqmwb9a5hmlp0rdfzd42g7csh3l5jyoycld8rdhw.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/elementor/thumbs/fernando-trivino-iHRvpw2Gvq8-unsplash-scaled-qntqn02m1hmrw4varhlve1i1qbykfxyw1gyjaclst0.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/05/fotform-768x630.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/03/Grupo-71.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/home/</loc>
 		<lastmod>2024-04-19T17:08:58+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/02/Grupo-70.svg</image:loc>
@@ -47,8 +126,8 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/en/</loc>
-		<lastmod>2024-04-19T17:28:21+00:00</lastmod>
+		<loc>/en-2/</loc>
+		<lastmod>2024-05-06T20:57:45+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/02/Grupo-70.svg</image:loc>
 		</image:image>
@@ -90,6 +169,85 @@
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/02/footer.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/en/</loc>
+		<lastmod>2024-05-07T21:16:30+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/02/Grupo-70.svg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/05/Componente-3-%E2%80%93-3.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/05/mujer-img.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/05/nuestra-cita-.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/03/Grupo-71.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/02/antesdepsues-3.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/03/Group-91.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/03/Group-92.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/02/antesdepsues-3.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/03/Group-91.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/03/Group-92.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/elementor/thumbs/samuel-figueroa-wjH5UEFtVAg-unsplash-scaled-qntqldsh9yet9c6n803dcg77gfeycvikhf8oknr1dw.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/elementor/thumbs/AdobeStock_445470240-scaled-qntqlzern58eodb8prfsfsqt4age9wwe8e8um0uzes.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/elementor/thumbs/churches-694771-scaled-qntqmj5dmnzfg6ikihyye5rhldr3rk2rb3y1ou1ps4.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/elementor/thumbs/dawin-rizzo-JzrTU1ruTnc-unsplash-scaled-qntqmosero75duadlkept4c95ozb1qp5bvuykhtcqs.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/elementor/thumbs/fernando-trivino-_W_O8CbkTig-unsplash-scaled-qntqmwb4achfypzgdnnqd2fxwry8rbj00x2uepi7d0.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/elementor/thumbs/fernando-trivino-iHRvpw2Gvq8-unsplash-scaled-qntqn02h1oml95tzrpa8n1hsabfpm3xxdfosbtcmo4.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/elementor/thumbs/samuel-figueroa-wjH5UEFtVAg-unsplash-scaled-qntqldsm9rezwb7y7sf03g7gwfxt6pjj5gifj707is.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/elementor/thumbs/AdobeStock_445470240-scaled-qntqlzewmy8lbccjpjrf6sr2kaz93qxcwfilkk45jo.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/elementor/thumbs/churches-694771-scaled-qntqmj5imgzm35jviaal55rr1e9yle3pz57sndavx0.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/elementor/thumbs/dawin-rizzo-JzrTU1ruTnc-unsplash-scaled-qntqmosjrh7c0tbolcqck4cilpi5vkq3zx4pj12ivo.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/elementor/thumbs/fernando-trivino-_W_O8CbkTig-unsplash-scaled-qntqmwb9a5hmlp0rdfzd42g7csh3l5jyoycld8rdhw.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/elementor/thumbs/fernando-trivino-iHRvpw2Gvq8-unsplash-scaled-qntqn02m1hmrw4varhlve1i1qbykfxyw1gyjaclst0.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/05/fotform-768x630.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/03/Grupo-71.png</image:loc>
 		</image:image>
 	</url>
 </urlset>
