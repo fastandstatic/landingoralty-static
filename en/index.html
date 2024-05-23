@@ -859,7 +859,7 @@ h2#swal2-title {
                 document.cookie = name + "=" + value + ";path=/;expires=" + d.toGMTString();
             }
             var name = 'pbid';
-            var pbidHash = "a6ed9afedacb81ca5f9e18e8d272922b25e9efed37cff5f3765546f8d9c05f70";
+            var pbidHash = "25ae603e72feeded87c251abcebf41698cd4bca471d8d25c80663e8baf727064";
 
             if(pys_get_pbid(name) != pbidHash || pys_get_pbid(name) == '') { // prevent re send event if user update page
                 pys_set_pbid(name,pbidHash,180)
