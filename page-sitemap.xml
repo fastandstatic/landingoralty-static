@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>/</loc>
-		<lastmod>2024-05-23T21:02:51+00:00</lastmod>
+		<lastmod>2024-05-23T22:29:29+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/02/Grupo-70.svg</image:loc>
 		</image:image>
@@ -71,6 +71,12 @@
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/elementor/thumbs/fernando-trivino-iHRvpw2Gvq8-unsplash-scaled-qntqn02m1hmrw4varhlve1i1qbykfxyw1gyjaclst0.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/05/fotform-768x630.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/03/Grupo-71.png</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/05/fotform-768x630.png</image:loc>
@@ -176,7 +182,7 @@
 	</url>
 	<url>
 		<loc>/en/</loc>
-		<lastmod>2024-05-08T15:52:44+00:00</lastmod>
+		<lastmod>2024-05-23T22:40:30+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/02/Grupo-70.svg</image:loc>
 		</image:image>
@@ -245,6 +251,12 @@
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/elementor/thumbs/fernando-trivino-iHRvpw2Gvq8-unsplash-scaled-qntqn02m1hmrw4varhlve1i1qbykfxyw1gyjaclst0.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/05/fotform-768x630.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/03/Grupo-71.png</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/05/fotform-768x630.png</image:loc>
